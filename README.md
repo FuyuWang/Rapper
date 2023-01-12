@@ -1,6 +1,6 @@
 # Rapper
 
-NeurMap a deep reinforcement learning-based DNN mapper, 
+Rapper a deep reinforcement learning-based DNN mapper, 
 to search the optimized mapping strategies for spatial accelerators.
 This repository contains the source code for Rapper.
 
